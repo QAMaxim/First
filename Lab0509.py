@@ -28,7 +28,7 @@ for z in range(x):
     print()
 #Задание № 2
 x = int(input('Введите высоту Вашего прямоугольника: '))
-y = int(input('Введите ширинуу Вашего прямоугольника: '))
+y = int(input('Введите ширину Вашего прямоугольника: '))
 for z in range(x):
     for w in range(y):
         print('*', end=' ')
